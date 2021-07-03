@@ -84,7 +84,7 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
             Container(
               child: Row(
                 children: [
-                  ///Container for Icon
+                  
                   Container(
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
@@ -96,12 +96,12 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
                     ),
                   ),
 
-                  ///For spacing
+                  
                   SizedBox(
                     width: 24,
                   ),
 
-                  ///For Text
+                
                   Text(
                     "Friday 28, November",
                     style: TextStyle(
@@ -123,7 +123,7 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
             Container(
               child: Row(
                 children: [
-                  ///Container for Icon
+            
                   Container(
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
@@ -135,12 +135,12 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
                     ),
                   ),
 
-                  ///For spacing
+                  
                   SizedBox(
                     width: 24,
                   ),
 
-                  ///For Text
+      
                   Text(
                     "1:00 - 3:00 PM",
                     style: TextStyle(
@@ -169,7 +169,7 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
               ),
               child: Row(
                 children: [
-                  ///Container for Icon
+            
                   Container(
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
@@ -181,12 +181,12 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
                     ),
                   ),
 
-                  ///For spacing
+            
                   SizedBox(
                     width: 24,
                   ),
 
-                  ///For Text
+                
                   Text(
                     "Work",
                     style: TextStyle(
@@ -221,7 +221,7 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
               ),
               child: Row(
                 children: [
-                  ///Container for Icon
+              
                   Container(
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
@@ -233,12 +233,12 @@ class _CreateTaskScreenState extends State<CreateTaskScreen> {
                     ),
                   ),
 
-                  ///For spacing
+                
                   SizedBox(
                     width: 24,
                   ),
 
-                  ///For Text
+                
                   Text(
                     "Remind me",
                     style: TextStyle(
